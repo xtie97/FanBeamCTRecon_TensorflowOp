@@ -4,7 +4,7 @@ import matplotlib.pylab as plt
 import math
 import psutil
 
-FBP_module = tf.load_op_library('/home/xintie/DSI_Project/FDK_TFOp_generate/FBP_op.so')
+FBP_module = tf.load_op_library('./FBP_op.so')
 
 def read_binary_dataset(file_name, num_samples, nview, ncol):   # please pay attentions to the order of data!
     
