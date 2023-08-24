@@ -1,4 +1,4 @@
-# Fan_TFOp
+# Fan beam reconstruction in CT
 TensorFlow Op for CT Reconstruction 
 
 The filter backprojection codes are written in CUDA/C and we wrap it in the TensorFlow OP. This serves as the forward projection module in the paper: 
