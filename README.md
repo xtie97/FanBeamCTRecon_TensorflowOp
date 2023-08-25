@@ -1,4 +1,4 @@
-# Fan Beam CT reconstruction (Tensorflow Operation) :sparkles:
+# Fan Beam CT reconstruction (Tensorflow Op) :sparkles:
 
 ## TensorFlow Op for CT Reconstruction :mag:
 
